@@ -1,0 +1,1 @@
+copy /b TEMP.jpg+1.txt newTemp.jpg
